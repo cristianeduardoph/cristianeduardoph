@@ -1,6 +1,6 @@
 ## Hola <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Soy [Criss!](https://github.com/cristianeduardoph) !!
 
-👩‍💻 Un aficionado al mundo de la *programacion* y las *tecnologías*.
+👩‍💻 Un aficionado al mundo de la *programación* y las *tecnologías*.
 
 ## Tecnologías y herramientas preferidas
 
